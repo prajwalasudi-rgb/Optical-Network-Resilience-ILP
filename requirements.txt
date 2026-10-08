@@ -1,0 +1,5 @@
+networkx>=3.0
+geopy>=2.3
+pulp>=2.8,<3
+highspy>=1.7
+matplotlib>=3.7
